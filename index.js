@@ -20,7 +20,7 @@ let highScores = [
 // Welcome
 function welcome() {
   userName = readlinesync.question("What's your name? ");
-  console.log("Welcome ❤️ ", userName, "to DO YOU KNOW SURYAKANT QUIZ!");
+  console.log("\nWelcome ❤️ ", userName, "to DO YOU KNOW SURYAKANT QUIZ!");
 }
 
 // Play
