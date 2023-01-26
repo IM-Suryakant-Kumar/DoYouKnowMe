@@ -13,6 +13,7 @@ A CLI Quiz App to check how wellyou Know me
 - And Then it will show all who know Suryakant very well
 
 ## Preview
+![Screenshot (21)](https://user-images.githubusercontent.com/66691162/214779584-90eaacb3-653b-4ab2-a52f-7c9d2eb4758b.png)
 
 ## TechStack
 
