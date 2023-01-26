@@ -1,6 +1,6 @@
 # DoYouKnowMe
 
-A CLI Quiz App to check how wellyou Know me
+A CLI Quiz App to check how well you Know me
 
 ## Workflow
 
